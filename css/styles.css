@@ -1,0 +1,190 @@
+h1 {
+  color: hsl(300, 43%, 22%);
+  font-family: Spartan;
+  width: 40%;
+  line-height: 1.2;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: Spartan;
+  width: 30%;
+  line-height: 2;
+}
+
+h3 {
+  font-family: Spartan;
+  width: 30%;
+  line-height: 2;
+  color:  hsl(303, 10%, 53%);
+}
+
+body{
+  align: left;
+}
+
+p {
+  font-family: Spartan;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1.5;
+}
+
+td {
+  font-family: Spartan;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 2;
+  width: 100%;
+}
+.intro{
+  line-height: 0.2;
+}
+
+.top {
+  padding: 70px 100px 70px 100px;
+}
+
+.bottom {
+  padding: 70px;
+}
+
+.rating {
+  float: right;
+  color: hsl(300, 43%, 22%);
+}
+
+.reviews-rating {
+  background-color: hsl(300, 24%, 96%);
+  width: 360px;
+  height: 12px;
+  position: relative;
+  right: 200px;
+  top: 50px;
+  padding: 20px;
+  border: 2px solid hsl(300, 24%, 96%);
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.report-guru-rating {
+  background-color: hsl(300, 24%, 96%);
+  width: 360px;
+  height: 12px;
+  position: relative;
+  right: 150px;
+  top: 55px;
+  padding: 20px;
+  border: 2px solid hsl(300, 24%, 96%);
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.best-tech-rating {
+  background-color: hsl(300, 24%, 96%);
+  width: 360px;
+  height: 12px;
+  position: relative;
+  right: 100px;
+  top: 60px;
+  padding: 20px;
+  border: 2px solid hsl(300, 24%, 96%);
+  border-radius: 8px;
+  margin: 20px;
+}
+
+.title {
+  font-family: Spartan;
+}
+
+.subtitle {
+  font-size: 14px;
+}
+
+.bottom {
+  padding: 100px
+}
+
+.avatar-img {
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
+  width: 50px;
+  padding: 50px;
+  position: absolute;
+  padding: 10%;
+  left: 0%;
+}
+
+.name {
+  line-height: 0.5;
+  width: 100%;
+  position: absolute;
+  padding: 10%;
+  left: 20%;
+  color: white;
+}
+.subname{
+  position: absolute;
+  padding: 10%;
+  left: 20%;
+  top: 20.5%;
+  color: hsl(333, 80%, 67%);
+}
+
+.text{
+  color: hsl(300, 24%, 96%);
+  position: absolute;
+  padding: 10%;
+  left: 0%;
+  top: 35%;
+  width: 80%
+
+}
+
+.colton {
+  padding: 50px;
+  width: 20%;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+  left: 245px;
+  border: 2px solid hsl(300, 43%, 22%);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+
+}
+
+.irene {
+  padding: 50px;
+  width: 20%;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+  left: 260px;
+  top: 35px;
+  border: 2px solid hsl(300, 43%, 22%);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+}
+
+.anne {
+  padding: 50px;
+  width: 20%;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+  left: 275px;
+  top: 70px;
+  border: 2px solid hsl(300, 43%, 22%);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+}
+
+.attribution {
+  margin-top: 150px;
+  padding: 100px auto 20px auto;
+}
